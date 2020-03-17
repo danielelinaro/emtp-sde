@@ -14,4 +14,4 @@ The following files are contained in this repository:
 
 The manuscript is currently under review in the IEEE Transactions on Power Delivery.
 
-For any question or comment about the simulation files, you can contact either [Federico Bizzarri][mailto:federico.bizzarri@polimi.it] or [Daniele Linaro][daniele.linaro@polimi.it].
+For any question or comment about the simulation files, you can contact either [Federico Bizzarri](mailto:federico.bizzarri@polimi.it) or [Daniele Linaro](daniele.linaro@polimi.it).
